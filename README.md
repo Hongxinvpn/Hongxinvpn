@@ -1,7 +1,8 @@
  
+ ![图片描述](https://github.com/Hongxinvpn/hongxing/blob/main/photo_2024-03-21_15-42-02.jpg?raw=true)
  ## 红杏加速器     一直可以出墙的红杏 #
   - - - -
- 🌐访问官方网站 <a href="https://hxapp.vip" style="font-size: 30px; color: blue; font-weight: bold;">hxapp.vip</a>
+ **🌐访问官方网站 <a href="https://hxapp.vip" style="font-size: 30px; color: blue; font-weight: bold;">hxapp.vip</a>**
  
  **:arrow_double_down: [windows用户下载 exe ](https://hxapp.vip/hxapp.zip)** 
  
