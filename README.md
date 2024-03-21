@@ -2,8 +2,10 @@
 -
 -  👀 我们的主页是 hxapp.vip
 -
-- 🌱 Windows下载   安卓下载
--
+- **:arrow_double_down: [exe windows用户下载](https://hxapp.vip/hxapp.zip)** 
+
+- **:arrow_double_down: [apk 安卓版本下载](https://hxapp.vip/hxapp.apk)**
+
 - 当网络受限，自由成为稀缺，红杏加速器助您出墙，永享互联网自由。珍藏红杏加速器，拥抱网络自由，与友共享。
 
 <!---
