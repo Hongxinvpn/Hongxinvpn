@@ -15,6 +15,8 @@
 
 **:arrow_double_down: [  Shadowrocket、Clash等用户入口  ](https://user.hxapp.vip/)** 
 
+**:globe_with_meridians:<a href="https://hxapp.vip" target="_blank">访问官方网站</a>**
+
 请使用浏览器下载安装包
  - - - -
 **:airplane: [Telegeam客服群]**
