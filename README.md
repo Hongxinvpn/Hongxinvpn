@@ -15,9 +15,7 @@
 
 **:arrow_double_down: [  Shadowrocket、Clash等用户入口  ](https://user.hxapp.vip/)** 
 
-**:globe_with_meridians:[访问官方网站](https://hxapp.vip){:target="_blank"}**
 
-**:globe_with_meridians:[访问官方网站](https://hxapp.vip){:target="_blank"}**
 
 
 
