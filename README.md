@@ -3,7 +3,7 @@
 
 #### 春色满园关不住 一支红杏出墙来
 - - - -
-**:globe_with_meridians:<a href="https://hxapp.vip" target="_blank">访问官方网站</a>**
+**:globe_with_meridians:<a href="https://hxapp.vip">访问官方网站</a>**
 
 **:arrow_double_down: [  安卓版下载  ](https://hxapp.vip/soft/android.apk)**
 
@@ -14,10 +14,6 @@
 **:arrow_double_down: [  MacOS版下载  ]**
 
 **:arrow_double_down: [  Shadowrocket、Clash等用户入口  ](https://user.hxapp.vip/)** 
-
-
-
-
 
 请使用浏览器下载安装包
  - - - -
