@@ -11,7 +11,7 @@
 
 **:arrow_double_down: [  WINDOWS免安装版下载  ](https://hxapp.vip/soft/hxapp.rar)** 
 
-**:arrow_double_down: [  MacOS版下载 ] (https://www.hxapp.vip/soft/mac.zip)** 
+**:arrow_double_down: [  MacOS版下载 ](https://www.hxapp.vip/soft/mac.zip)** 
 
 **:arrow_double_down: [  Shadowrocket、Clash等用户入口  ](https://user.hxapp.vip/)** 
 
@@ -19,7 +19,7 @@
  - - - -
 **:airplane: [Telegeam客服群]**
 
-**:e-mail: [邮件联系我们]**
+**:e-mail: [邮件联系我们](mailto:hongxingkf@gmail.com)**
  - - - -
  #### 专线传输 不限流量 不限速度 永不失联
 
