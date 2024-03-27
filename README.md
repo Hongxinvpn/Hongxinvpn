@@ -17,7 +17,7 @@
 
 请使用浏览器下载安装包
  - - - -
-**:airplane: [Telegeam客服群]**
+**:airplane: [Telegeam客服群](https://t.me/kfhongxing)**
 
 **:e-mail: [邮件联系我们](mailto:hongxingkf@gmail.com)**
  - - - -
