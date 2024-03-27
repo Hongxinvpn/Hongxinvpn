@@ -9,9 +9,9 @@
 
 **:arrow_double_down: [  苹果IOS版下载  ]**
 
-**:arrow_double_down: [  WINDOWS免安装版下载  ](https://hxapp.vip/soft/windows.zip)** 
+**:arrow_double_down: [  WINDOWS免安装版下载  ](https://hxapp.vip/soft/hxapp.rar)** 
 
-**:arrow_double_down: [  MacOS版下载  ]**
+**:arrow_double_down: [  MacOS版下载 ] (https://www.hxapp.vip/soft/mac.zip)** 
 
 **:arrow_double_down: [  Shadowrocket、Clash等用户入口  ](https://user.hxapp.vip/)** 
 
