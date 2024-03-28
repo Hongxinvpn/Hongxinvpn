@@ -17,9 +17,9 @@
 
 请使用浏览器下载安装包
  - - - -
-**:airplane: [Telegeam客服群](https://t.me/kfhongxing)**
+**:airplane: [Telegeam客服群](https://t.me/kfhongxing)**         **:bird: [Twitter](https://twitter.com/HongXingKF)** 
 
-**:e-mail: [邮件联系我们](mailto:hongxingkf@gmail.com)**
+**:e-mail: [邮件联系我们](mailto:hongxingkf@gmail.com)**             
  - - - -
  #### 专线传输 不限流量 不限速度 永不失联
 
