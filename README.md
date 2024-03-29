@@ -9,7 +9,7 @@
 
 **:arrow_double_down: [  苹果IOS版下载  ]**
 
-**:arrow_double_down: [  WINDOWS免安装版下载  ](https://hxapp.vip/soft/hxapp.exe)** 
+**:arrow_double_down: [  WINDOWS版下载  ](https://hxapp.vip/soft/hxapp.exe)** 
 
 **:arrow_double_down: [  MacOS版下载 ](https://www.hxapp.vip/soft/hxapp.app.zip)** 
 
