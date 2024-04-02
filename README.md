@@ -7,7 +7,7 @@
 
 **:arrow_double_down: [  安卓版下载  ](https://hxapp.vip/soft/hxapp.apk)**
 
-**:arrow_double_down: [  苹果IOS版下载  ]**
+**:arrow_double_down: [  苹果IOS版下载  ](https://www.hxapp.vip/soft/hxapp.dmg)**
 
 **:arrow_double_down: [  WINDOWS版下载  ](https://hxapp.vip/soft/hxapp.exe)** 
 
