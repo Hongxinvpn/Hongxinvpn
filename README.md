@@ -5,13 +5,13 @@
 - - - -
 **:globe_with_meridians:---<a href="https://hxapp.vip">访问官方网站</a>**
 
-**:arrow_double_down:--- [  安卓版下载  ](https://cache.cloudcdnglobal.com/hxapp/hxapp.apk)**
+**:arrow_double_down:--- [  安卓版下载  ](https://www.wujieapp.com/hxapp/hxapp.apk)**
 
 **:arrow_double_down:--- [  苹果IOS版下载  ]**
 
-**:arrow_double_down:--- [  WINDOWS版下载  ](https://cache.cloudcdnglobal.com/hxapp/hxapp.exe)** 
+**:arrow_double_down:--- [  WINDOWS版下载  ](https://www.wujieapp.com/hxapp/hxapp.exe)** 
 
-**:arrow_double_down:--- [  MacOS版下载 ](https://cache.cloudcdnglobal.com/hxapp/hxapp.dmg)** 
+**:arrow_double_down:--- [  MacOS版下载 ](https://www.wujieapp.com/hxapp/hxapp.dmg)** 
 
 **:arrow_double_down:--- [  Shadowrocket、Clash等用户入口  ](https://user.hxapp.vip/)** 
 
